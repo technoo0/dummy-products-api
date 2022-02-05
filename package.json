@@ -6,6 +6,7 @@
   "license": "MIT",
   "scripts": {
     "start": "node src/index.js",
+    "gan": "node src/utilities/ganerateProducts.js",
     "server": "clear && yarn run docs:build && nodemon src/index.js",
     "deploy": "yarn run docs:build && git push -u heroku master",
     "docs:sass": "clear && node-sass ./docs/assets/sass/_main.scss ./docs/assets/css/main.css",
