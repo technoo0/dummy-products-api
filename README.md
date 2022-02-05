@@ -1,4 +1,4 @@
-# This fork is confegerd to run localy beacause the original api is down (there is no response for the api key email) 
+# This fork is configured to run localy beacause the original api is down (there is no response for the api key email) 
 ## i removed the api key and limit and added function for product generation to the database
 ## to run localy 
 
