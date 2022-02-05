@@ -1,3 +1,19 @@
+# This fork is confegerd to run localy beacause the orginal api is down (there is no response for the api key email) 
+## i removed the api key and limit and added function for product generation to the database
+## to run localy 
+
+1) add .env file and copy the values from copy_env
+2) add your mangobd database url
+3) run this commands
+```sh
+npm install
+
+```
+```sh
+npm run start
+
+```
+
 
 # DUMMY PRODUCTS REST API
 ![Made With](https://img.shields.io/badge/Made%20with-Node.JS-68A063?style=for-the-badge&logo=Node.JS)
