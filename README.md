@@ -2,8 +2,8 @@
 ## i removed the api key and limit and added function for product generation to the database
 ## to run localy 
 
-1) add .env file and copy the values from copy_env
-2) add your mangobd database url
+1) add .env file and copy the values from .env copy
+2) add your mangobd database url in the .env file
 3) run this commands
 ```sh
 npm install
